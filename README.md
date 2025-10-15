@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My name is Ricky and I am currently an associate systems engineer hoping to be come a cloud engineer one day.
+
+- I am currently working on building a portfolio to showcase my experience
+
+- Any advice on starting a career in cloud would be greatly appreciated. 
+
+- How to reach me: [linkedin](https://www.linkedin.com/in/rickyvaughniii/)
