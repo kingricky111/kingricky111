@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ricky</h1>
-<h3 align="center">- I am Systems Engineer transitioning into cloud and platform engineering.</h3>
+<h3 align="center">- I am Systems Engineer transitioning into Cloud and DevOps engineering.</h3>
 
 <h3 align="center"> - Background in virtualization and on-prem systems, now focused on Kubernetes, automation, and cloud-native tooling.</h3>
 
