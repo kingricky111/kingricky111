@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Ricky</h1>
-<h3 align="center">- My name is Ricky and I am Infrastructure engineer transitioning into cloud and platform engineering. - Background in virtualization and on-prem systems, now focused on Kubernetes, automation, and cloud-native tooling. - any advice is welcome</h3>
+<h3 align="center">
+-I am Infrastructure engineer transitioning into cloud and devops engineering. 
+- Background in virtualization and on-prem systems, now focused on Kubernetes, automation, and cloud-native tooling. 
+- any advice is welcome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingricky111&label=Profile%20views&color=0e75b6&style=flat" alt="kingricky111" /> </p>
 
