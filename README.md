@@ -33,6 +33,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing an Async AI Evaluation Pipeline in Azure - From Sync MVP to Event-Driven Architecture](https://medium.com/@kingricky111/designing-an-async-ai-evaluation-pipeline-in-azure-from-sync-mvp-to-event-driven-architecture-dd7a05174eac?source=rss-9afdf7779264------2)
+- [I Built a Cloud Resume on Azure to Understand How Everything Connects](https://medium.com/@kingricky111/i-built-a-cloud-resume-on-azure-to-understand-how-everything-connects-745ac27dfde7?source=rss-9afdf7779264------2)
+- [I Built a Kubernetes Homelab… and Finally Understand What DevOps Engineers Actually Do](https://medium.com/@kingricky111/i-built-a-kubernetes-homelab-and-finally-understand-what-devops-engineers-actually-do-f0f6869d2b14?source=rss-9afdf7779264------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Connect with me</h2>
