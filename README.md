@@ -110,11 +110,6 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingricky111&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kingricky111&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
+    
   </tr>
 </table>
