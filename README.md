@@ -33,11 +33,11 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Would Design Live Video Calls &amp; In-Call Games for Avana on AWS](https://medium.com/@kingricky111/how-i-would-design-live-video-calls-in-call-games-for-avana-on-aws-392a561c4f03?source=rss-9afdf7779264------2)
 - [How I Would Design Matchmaking for Avana on AWS](https://medium.com/@kingricky111/how-i-would-design-matchmaking-for-avana-on-aws-1aa009985526?source=rss-9afdf7779264------2)
 - [How I Would Design Account Creation &amp; Identity Verification for Avana on AWS](https://medium.com/@kingricky111/how-i-would-design-account-creation-identity-verification-for-avana-on-aws-b266c26ef411?source=rss-9afdf7779264------2)
 - [My Portfolio Can Answer Questions Now &lpar;AI Chatbot on Kubernetes&rpar;](https://medium.com/@kingricky111/my-portfolio-can-answer-questions-now-ai-chatbot-on-kubernetes-4fc270468815?source=rss-9afdf7779264------2)
 - [From Azure to Kubernetes: Hosting my portfolio myself!](https://medium.com/@kingricky111/from-azure-to-kubernetes-hosting-my-portfolio-myself-cfe8a64d989c?source=rss-9afdf7779264------2)
-- [Designing an Async AI Evaluation Pipeline in Azure - From Sync MVP to Event-Driven Architecture](https://medium.com/@kingricky111/designing-an-async-ai-evaluation-pipeline-in-azure-from-sync-mvp-to-event-driven-architecture-dd7a05174eac?source=rss-9afdf7779264------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Connect with me</h2>
